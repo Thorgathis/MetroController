@@ -6,7 +6,7 @@
 
 ### Как запустить
 
-1. Прошиваете Arduino
+1. Прошейте Arduino (Возможно вам поданобится установить эти библиотеки: [GyverJoy](https://github.com/GyverLibs/GyverJoy), [EncButton](https://github.com/GyverLibs/EncButton))
 2. Подключаете её к компьютеру
 3. Запускаете файл [Software.py](https://github.com/Thorgathis/MetroController/blob/master/Firmware/Firmware.ino) командой:
     - Для Windows: `py Software.py`
