@@ -8,7 +8,7 @@
 
 1. Прошиваете Arduino
 2. Подключаете её к компьютеру
-3. Запускаете файл (Software.py)[lnk] командой:
+3. Запускаете файл [Software.py](https://github.com/Thorgathis/MetroController/blob/master/Firmware/Firmware.ino) командой:
     - Для Windows: py Software.py
     - Для Linux и Mac: python3 Software.py
 4. Выберете среди доступных COM портов, порт ардуинки
